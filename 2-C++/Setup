@@ -1,0 +1,5 @@
+$ mkdir -p ~/ros2_ws/src
+$ cd ~/ros2_ws
+$ colcon build
+$ sudo apt install ros-humble-navigation2
+$ sudo apt install ros-humble-slam-toolbox
