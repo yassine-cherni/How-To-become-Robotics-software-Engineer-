@@ -1,4 +1,4 @@
-$ mkdir -p ~/ros2_ws/src
+$ mkdir -p ~/ros2_ws/s
 $ cd ~/ros2_ws
 $ colcon build
 $ sudo apt install ros-humble-navigation2
