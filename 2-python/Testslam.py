@@ -15,7 +15,7 @@ def get_sensor_data():
   return distance, angle
 
 # Initialize robot position
-x = 0.0
+x = 
 y = 0.0
 
 # Update loop
