@@ -26,3 +26,4 @@ while True:
 
   # Print current robot position (replace with actual map update)
   print(f"Robot position: x: {x}, y: {y}")
+rplpy
