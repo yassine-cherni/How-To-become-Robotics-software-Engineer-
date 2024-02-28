@@ -7,7 +7,7 @@ def move_robot(distance, angle):
   x += distance * math.cos(angle)
   y += distance * math.sin(angle)
 
-def get_sensor_data():
+def get_sensor_
   # Simulate sensor measurements, replace with actual sensor data reading
   # This is a simplified example, real sensors provide range and bearing
   distance = 1.0  # Meters
