@@ -1,4 +1,4 @@
-import ma
+import math
 import numpy as np
 # Define functions for movement and sensor data simulation
 def move_robot(distance, angle):
